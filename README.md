@@ -5,7 +5,11 @@ Adding a superset of windows functions to r sqldf using precompiled sqlean dll
     %stop_submissions;
 
     Adding a superset of windows functions to r sqldf using precompiled sqlean dll
-
+    
+    github                                                                                                               
+    https://tinyurl.com/4a2z4c3f                                                                                         
+    https://github.com/rogerjdeangelis/utl-adding-a-superset-of-windows-functions-to-r-sqldf-using-precompiled-sqlean-dll
+    
     communities.sas (it appears that a one step solution was not presented)
     https://tinyurl.com/3evfzb8j
     https://communities.sas.com/t5/Statistical-Procedures/Calculate-mean-median-IQR-sum-sumpct/m-p/834703#M41340
