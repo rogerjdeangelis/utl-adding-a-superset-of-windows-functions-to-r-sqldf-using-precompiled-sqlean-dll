@@ -1,0 +1,7 @@
+{
+  "bundle": "t002_want_summary",
+  "source_file": "utl-adding-a-superset-of-windows-functions-to-r-sqldf-using-precompiled-sqlean-dll.sas",
+  "source_blob_sha": "dfcc12b4e01b6c0d8ead7fd982643c8421de2c83",
+  "source_commit": "06f8cec9379690e5ebc88610d4ea49caacf37907",
+  "notes": "Reproduces the per-var want summary (iqr, mean, median, pctlab) that the file's sqldf/sqlean-dll R block computes, using native SAS on the same have data: PROC SQL for the grand total (GRAND=76780, matching the file's 8180/76780 pctlab note), PROC MEANS for q1/q3/mean/median, then iqr = q3 - q1. Output matches the want table documented at the end of the source file (diag 4500/6450.00/7000/0.00, lab 570/908.89/500/10.65, pham 5200/6114.29/6000/0.00)."
+}
