@@ -1,0 +1,15 @@
+{
+  "_captured_at": "2026-07-19T12:45:00Z",
+  "_captured_run_id": "r_5d13788383e94d00912993bbd2a9cc3f",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: Read 20 rows from DATALINES.",
+    "NOTE: Macro variable GRAND = 76780",
+    "NOTE: Output dataset stats has 3 observations and 8 variables.",
+    "NOTE: Wrote want (3 rows, 5 columns).",
+    "NOTE: PROC PRINT completed: 3 observations printed, 5 variables"
+  ],
+  "log_does_not_contain": ["ERROR:", "[JENNER-ERROR"],
+  "diagnostics": {"parse_warnings": [], "runtime_warnings": []}
+}

@@ -1,0 +1,7 @@
+{
+  "bundle": "t001_have_sort",
+  "source_file": "utl-adding-a-superset-of-windows-functions-to-r-sqldf-using-precompiled-sqlean-dll.sas",
+  "source_blob_sha": "dfcc12b4e01b6c0d8ead7fd982643c8421de2c83",
+  "source_commit": "06f8cec9379690e5ebc88610d4ea49caacf37907",
+  "notes": "The repo's DATA step reading the inline lab/pham/diag cards4 values (dropping missing), then PROC SORT by var val and PROC PRINT of the sorted check the file documents. Only edit: the source libname sd1 \"d:/sd1\" is redirected to WORK so the step is self-contained; data and logic are unchanged."
+}
